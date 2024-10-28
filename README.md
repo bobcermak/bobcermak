@@ -2,10 +2,14 @@
 
 ## 👀 I’m interested in:
 - Frontend development
+- Script development
+- Game development
 - AI and machine learning
 - Web technologies and frameworks
 
 ## 🌱 I’m currently learning:
+- Advanced C#
+- Advanced Database / SQL
 - Advanced JavaScript and TypeScript
 - React and modern frontend libraries
 - Machine learning algorithms and their applications
