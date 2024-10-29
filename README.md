@@ -14,6 +14,13 @@
 - React and modern frontend libraries
 - Machine learning algorithms and their applications
 
+## 👨‍💻 Programming languages:
+- C#
+- Python
+- JavaScript / TypeScript (and frameworks: React)
+- SQL
+- Web coding HTML / CSS (Tailwind, Bootstrap)
+
 ## 💞️ I’m looking to collaborate on:
 - Open-source projects
 - Innovative web applications
