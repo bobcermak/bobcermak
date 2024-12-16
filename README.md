@@ -29,14 +29,11 @@
 - Klidně mi napište zprávu tady na GitHubu!
 
 ## ⚡ Zajímavost:
-- Vytvořil jsem program pro "Robo-pomocníka"
+- Vytvořil jsem program pro "Robo-pomocníka".
 
 ---
 
-## 🌐 Přepnout jazyk:
-[English](#en)
-
----
+[🇨🇿 Čeština](#cz) | [🇬🇧 English](#en)
 
 <a id="en"></a>
 
@@ -71,4 +68,6 @@
 - Feel free to send me a message here on GitHub!
 
 ## ⚡ Fun fact:
-- I built a program for "Robo-helper"
+- I built a program for "Robo-helper".
+
+<a id="cz"></a>
