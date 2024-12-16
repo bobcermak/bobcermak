@@ -1,3 +1,45 @@
+# 👋 Ahoj, já jsem @bobcermak
+
+## 👀 Zajímám se o:
+- Frontendový vývoj
+- Vývoj skriptů
+- Vývoj her
+- Umělou inteligenci a strojové učení
+- Webové technologie a frameworky
+
+## 🌱 Aktuálně se učím:
+- Pokročilé C#
+- Pokročilé databáze / SQL
+- Pokročilý JavaScript a TypeScript
+- React a moderní frontendové knihovny
+- Algoritmy strojového učení a jejich aplikace
+
+## 👨‍💻 Programovací jazyky:
+- C#
+- Python
+- JavaScript / TypeScript (a frameworky: React)
+- SQL
+- Kódování webu HTML / CSS (Tailwind, Bootstrap)
+
+## 💞️ Hledám spolupráci na:
+- Open-source projektech
+- Inovativních webových aplikacích
+
+## 📫 Jak mě kontaktovat:
+- Klidně mi napište zprávu tady na GitHubu!
+
+## ⚡ Zajímavost:
+- Vytvořil jsem program pro "Robo-pomocníka"
+
+---
+
+## 🌐 Přepnout jazyk:
+[English](#en)
+
+---
+
+<a id="en"></a>
+
 # 👋 Hi, I’m @bobcermak
 
 ## 👀 I’m interested in:
@@ -29,9 +71,4 @@
 - Feel free to send me a message here on GitHub!
 
 ## ⚡ Fun fact:
-- I built a program for "Robo-pomocník".
-
-<!---
-bobcermak/bobcermak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I built a program for "Robo-helper"
