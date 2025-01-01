@@ -27,6 +27,3 @@
 
 ## 📫 Jak mě kontaktovat:
 - Klidně mi napište zprávu tady na GitHubu!
-
-## ⚡ Zajímavost:
-- Vytvořil jsem program pro "Robo-pomocníka"
