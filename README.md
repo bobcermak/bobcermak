@@ -9,8 +9,9 @@
 
 ## 🌱 Aktuálně se učím:
 - Pokročilé C#
-- Pokročilé databáze / SQL
+- Python a jeho populární knihovny
 - Pokročilý JavaScript a TypeScript
+- Pokročilé databáze / SQL
 - React a moderní frontendové knihovny
 - Algoritmy strojového učení a jejich aplikace
 
