@@ -28,3 +28,4 @@
 
 ## 📫 Jak mě kontaktovat:
 - Klidně mi napište zprávu tady na GitHubu!
+- 📧 Email: bob.cermak.dev@gmail.com
