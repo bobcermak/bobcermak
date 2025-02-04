@@ -1,4 +1,4 @@
-# 👋 Ahoj, já jsem @bobcermak
+# 👋 Ahoj, jsem @bobcermak
 
 ## 👀 Zajímám se o:
 - Frontendový vývoj
