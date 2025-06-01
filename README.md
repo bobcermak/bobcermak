@@ -23,8 +23,9 @@
 - Kódování webu HTML / CSS (Tailwind, Bootstrap)
 
 ## 💞️ Hledám spolupráci na:
-- Open-source projektech
-- Inovativních webových aplikacích
+- 🧑‍💻 Open-source projektech, které mají smysl  
+- 🚀 Inovativních webových aplikacích s moderními technologiemi  
+- 🌐 Tvorbě moderních a funkčních webových stránek
 
 ## 📫 Jak mě kontaktovat:
 - Klidně mi napište zprávu tady na GitHubu!
