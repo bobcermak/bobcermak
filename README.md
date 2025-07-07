@@ -19,7 +19,7 @@
 ## 👨‍💻 Programovací jazyky:
 - C#
 - Python
-- JavaScript / TypeScript (a frameworky: React, **Next.js**, **React Native**)
+- JavaScript / TypeScript (a frameworky: React, **Next.js**)
 - SQL
 - Kódování webu HTML / CSS (Tailwind, Bootstrap)
 
