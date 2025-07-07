@@ -12,13 +12,14 @@
 - Python a jeho populární knihovny
 - Pokročilý JavaScript a TypeScript
 - Pokročilé databáze / SQL
-- React a moderní frontendové knihovny
+- React, **Next.js** a moderní frontendové knihovny
+- **React Native** pro mobilní vývoj
 - Algoritmy strojového učení a jejich aplikace
 
 ## 👨‍💻 Programovací jazyky:
 - C#
 - Python
-- JavaScript / TypeScript (a frameworky: React)
+- JavaScript / TypeScript (a frameworky: React, **Next.js**, **React Native**)
 - SQL
 - Kódování webu HTML / CSS (Tailwind, Bootstrap)
 
